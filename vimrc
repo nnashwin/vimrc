@@ -9,6 +9,7 @@ syntax enable
 set wildmenu
 set showmatch
 set incsearch
+set autoindent
 inoremap {      {}<Left>
 inoremap {<CR>  {<CR>}<Esc>O
 inoremap {{     {
