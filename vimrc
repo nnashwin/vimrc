@@ -10,6 +10,7 @@ set wildmenu
 set showmatch
 set incsearch
 set autoindent
+set paste
 inoremap {      {}<Left>
 inoremap {<CR>  {<CR>}<Esc>O
 inoremap {{     {
